@@ -1,6 +1,6 @@
 # Welcome to my Profile! 👋
 
-### Isra sahal ibraahim
+### Isra Sahal Ibrahim
 **Visual Storyteller | Graphic Designer & Web Developer 🎨💻**
 
 ---
@@ -10,6 +10,10 @@
 ![Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🚀 What I'm working on:
+- **Graphic Design:** Creating professional logos and brand identities.
+- **Web Development:** Building modern and responsive websites.
 
 ### 📬 Contact Me:
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SAHALISRA@GMAIL.COM)
