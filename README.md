@@ -8,16 +8,16 @@
       <h3>Isra Sahal</h3>
       <p>Visual Storyteller | Graphic Designer & Web Developer 🎨💻</p>
     </td>
-    
     <td valign="top" width="70%">
       <p>Hi, I'm Isra, a passionate <b>Graphic Designer</b> and <b>Junior Web Developer</b>. I love creating visually stunning designs and building responsive websites.</p>
       
       <h3>🛠 My Technical Skills:</h3>
-      <img src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-      <img src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+      <p>
+        <img src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+        <img src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+      </p>
 
       <h3>🚀 What I'm working on:</h3>
       <ul>
